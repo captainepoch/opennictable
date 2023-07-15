@@ -7,7 +7,7 @@ You can see its API at [https://api.opennicproject.org/geoip/?help][2].
 *The full API will be implemented.*
 
 # Install
-`go get -u github.com/captainepoch/onpcli`
+`go get -u codeberg.org/captainepoch/onpcli`
 
 # Usage
 ```
